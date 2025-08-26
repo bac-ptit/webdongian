@@ -1,0 +1,16 @@
+﻿id_,name_,host_,created_at_,number_of_day_in_effect_,min_quantity_,max_quantity_,price_for_unit_,state_,service_id_
+1,VIP Like 7 ngày,https://facebook.com,2025-06-29 13:00:00,7,5,2147483647,1000,0,1
+2,VIP Like 1 ngày,https://facebook.com,2025-06-29 13:00:01,1,5,2000000000,2000,1,1
+3,VIP Like 30 ngày,https://facebook.com,2025-06-29 13:00:02,30,5,2147483647,500,0,1
+4,VIP Like 30 ngày,https://facebook.com,2025-06-29 13:00:03,30,5,2147483647,200,0,2
+5,VIP bình luận 1 tháng,https://facebook.com,2025-06-29 13:00:04,30,5,2147483647,200,0,3
+6,Tăng WOW,https://facebook.com,2025-06-29 13:00:05,1,20,2147483647,20,0,5
+7,Tăng like,https://facebook.com,2025-06-29 13:00:06,1,20,2147483647,20,0,5
+8,Like Post Facebook(tối thiểu 50),https://facebook.com,2025-06-29 13:00:07,1,50,2147483647,50,0,6
+9,"Like Post Facebook vip, tối thiểu 50",https://facebook.com,2025-06-29 13:00:08,1,50,2147483647,50,0,6
+10,bình luận tối thiểu 25 comment(chậm),https://facebook.com,2025-06-29 13:00:09,1,25,2147483647,10,0,7
+11,Facebook Reel Views,https://facebook.com,2025-06-29 13:00:10,1,500,2147483647,29,0,8
+12,Sv miễn phí(20 tim Tiktok),https://tiktok.com,2025-06-29 13:00:11,1,0,2147483647,0,2,9
+13,Sv Nhanh( View TikTok ),https://tiktok.com,2025-06-29 13:00:12,1,100,2147483647,20,0,9
+14,Sv miễn phí(20 tim Tiktok),https://tiktok.com,2025-06-29 13:00:13,1,0,2147483647,0,2,10
+15,Sv1 ( Tim TikTok  ),https://tiktok.com,2025-06-29 13:00:14,1,10,2147483647,1.94,0,10

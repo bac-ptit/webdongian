@@ -1,0 +1,7 @@
+{
+  "componentPath": "src/components/ui",
+  "style": "default",
+  "rsc": false,
+  "typescript": true,
+  "tailwind": true
+}

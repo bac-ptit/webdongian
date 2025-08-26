@@ -1,0 +1,12 @@
+LOAD DATA
+INFILE 'server.csv'
+INTO TABLE TABLE_SERVICE
+truncate
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+  id_,
+  name_,
+  booking_id_
+)

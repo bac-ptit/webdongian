@@ -1,0 +1,109 @@
+Date : 2025-06-26 17:00:16
+Directory : d:\Programming\web\tuongtac\backend
+Total : 71 files,  -24318 codes, -66304 comments, -8022 blanks, all -98644 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Makefile |          1 |        -60 |        -45 |        -24 |       -129 |
+| PL/SQL   |          2 |       -223 |        -29 |        -63 |       -315 |
+| XML      |          2 |       -281 |        -41 |        -29 |       -351 |
+| C        |          1 |       -396 |        -92 |        -75 |       -563 |
+| C++      |         65 |    -23,358 |    -66,097 |     -7,831 |    -97,286 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                 | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                    |         71 |    -24,318 |    -66,304 |     -8,022 |    -98,644 |
+| include                                                                                                              |         71 |    -24,318 |    -66,304 |     -8,022 |    -98,644 |
+| include\bac_lib                                                                                                      |         71 |    -24,318 |    -66,304 |     -8,022 |    -98,644 |
+| include\bac_lib\include                                                                                              |         71 |    -24,318 |    -66,304 |     -8,022 |    -98,644 |
+| include\bac_lib\include\oracle                                                                                       |         71 |    -24,318 |    -66,304 |     -8,022 |    -98,644 |
+| include\bac_lib\include\oracle\occi                                                                                  |         71 |    -24,318 |    -66,304 |     -8,022 |    -98,644 |
+| include\bac_lib\include\oracle\occi\instantclient_23_8                                                               |         71 |    -24,318 |    -66,304 |     -8,022 |    -98,644 |
+| include\bac_lib\include\oracle\occi\instantclient_23_8\sdk                                                           |         71 |    -24,318 |    -66,304 |     -8,022 |    -98,644 |
+| include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\admin                                                     |          1 |       -262 |        -20 |        -26 |       -308 |
+| include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\demo                                                      |          7 |     -1,167 |       -247 |       -252 |     -1,666 |
+| include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include                                                   |         63 |    -22,889 |    -66,037 |     -7,744 |    -96,670 |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                             | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\admin\oraaccess.xsd   | XML      |       -262 |        -20 |        -26 |       -308 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\demo\cdemo81.c        | C        |       -396 |        -92 |        -75 |       -563 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\demo\demo.mk          | Makefile |        -60 |        -45 |        -24 |       -129 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\demo\occidemo.sql     | PL/SQL   |       -184 |        -17 |        -50 |       -251 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\demo\occidemod.sql    | PL/SQL   |        -39 |        -12 |        -13 |        -64 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\demo\occidml.cpp      | C++      |       -272 |        -35 |        -50 |       -357 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\demo\occiobj.cpp      | C++      |       -197 |        -25 |        -37 |       -259 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\demo\oraaccess.xml    | XML      |        -19 |        -21 |         -3 |        -43 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\jzndom.h      | C++      |       -874 |     -3,296 |       -418 |     -4,588 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\jznerr.h      | C++      |       -581 |       -278 |        -53 |       -912 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\jznev.h       | C++      |       -565 |     -1,469 |       -240 |     -2,274 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\jznotn.h      | C++      |        -21 |         -9 |        -11 |        -41 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\jzntypes.h    | C++      |       -476 |       -365 |        -67 |       -908 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ldap.h        | C++      |       -852 |       -146 |       -197 |     -1,195 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\nzerror.h     | C++      |       -480 |       -275 |        -52 |       -807 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\nzt.h         | C++      |       -384 |       -988 |       -122 |     -1,494 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\occi.h        | C++      |        -18 |        -44 |        -17 |        -79 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\occiAQ.h      | C++      |       -290 |        -42 |        -48 |       -380 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\occiCommon.h  | C++      |       -843 |        -65 |        -92 |     -1,000 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\occiControl.h | C++      |     -1,502 |       -313 |       -421 |     -2,236 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\occiData.h    | C++      |       -813 |       -227 |       -140 |     -1,180 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\occiObjects.h | C++      |       -610 |       -186 |       -115 |       -911 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\oci.h         | C++      |     -2,380 |     -1,587 |       -586 |     -4,553 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\oci1.h        | C++      |        -59 |        -85 |        -39 |       -183 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\oci8dp.h      | C++      |        -71 |       -208 |        -39 |       -318 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ociap.h       | C++      |     -1,688 |    -10,097 |       -634 |    -12,419 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ociapr.h      | C++      |        -95 |        -45 |        -16 |       -156 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ocidef.h      | C++      |       -307 |       -491 |        -89 |       -887 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ocidem.h      | C++      |        -61 |        -38 |        -15 |       -114 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ocidfn.h      | C++      |       -141 |        -98 |        -28 |       -267 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ociextp.h     | C++      |        -28 |       -202 |        -53 |       -283 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ocijson.h     | C++      |       -134 |       -711 |        -54 |       -899 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ocikpr.h      | C++      |        -90 |        -47 |        -29 |       -166 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ociver.h      | C++      |         -5 |        -10 |         -5 |        -20 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ocixmldb.h    | C++      |        -92 |       -126 |        -35 |       -253 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ocixstream.h  | C++      |       -456 |     -1,741 |        -95 |     -2,292 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\odci.h        | C++      |       -672 |       -246 |       -135 |     -1,053 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ons.h         | C++      |       -294 |     -2,580 |       -190 |     -3,064 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\opmnlist.h    | C++      |       -191 |        -18 |        -39 |       -248 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\orajson.h     | C++      |         -6 |         -9 |         -5 |        -20 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\orastruc.h    | C++      |       -142 |       -118 |        -69 |       -329 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\oratypes.h    | C++      |       -218 |        -16 |        -68 |       -302 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\oraxml.h      | C++      |       -566 |     -5,140 |       -262 |     -5,968 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\oraxml.hpp    | C++      |       -310 |        -20 |        -50 |       -380 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\oraxmlcg.h    | C++      |        -25 |        -13 |        -15 |        -53 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\oraxsd.h      | C++      |        -28 |       -154 |        -20 |       -202 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\oraxsd.hpp    | C++      |        -33 |        -11 |        -16 |        -60 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ori.h         | C++      |       -160 |     -1,872 |        -64 |     -2,096 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\orid.h        | C++      |        -29 |       -334 |        -11 |       -374 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\orl.h         | C++      |       -448 |     -3,279 |       -272 |     -3,999 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\oro.h         | C++      |       -358 |       -448 |       -102 |       -908 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\ort.h         | C++      |       -218 |     -2,346 |       -168 |     -2,732 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xa.h          | C++      |        -81 |       -104 |        -16 |       -201 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xml.h         | C++      |         -6 |        -50 |         -5 |        -61 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xml.hpp       | C++      |         -6 |        -11 |         -4 |        -21 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlctx.hpp    | C++      |       -106 |        -18 |        -42 |       -166 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmldav.h      | C++      |       -161 |     -3,994 |       -100 |     -4,255 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmldf.h       | C++      |        -72 |       -374 |        -36 |       -482 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlerr.h      | C++      |       -340 |        -76 |        -33 |       -449 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlev.h       | C++      |       -716 |     -1,158 |       -204 |     -2,078 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlotn.h      | C++      |        -29 |        -50 |        -12 |        -91 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlotn.hpp    | C++      |     -1,093 |     -7,180 |       -705 |     -8,978 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlproc.h     | C++      |     -1,826 |     -8,433 |       -996 |    -11,255 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlsch.h      | C++      |       -139 |       -612 |        -49 |       -800 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlsoap.h     | C++      |        -90 |       -827 |        -46 |       -963 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlsoap.hpp   | C++      |        -90 |       -506 |        -51 |       -647 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlsoapc.hpp  | C++      |       -122 |        -27 |        -31 |       -180 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlurl.h      | C++      |       -168 |       -839 |        -78 |     -1,085 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlxptr.h     | C++      |        -42 |       -186 |        -26 |       -254 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlxsl.h      | C++      |        -88 |       -590 |        -51 |       -729 |
+| d:\Programming\web\tuongtac\backend\include\bac_lib\include\oracle\occi\instantclient_23_8\sdk\include\xmlxvm.h      | C++      |       -100 |     -1,209 |        -63 |     -1,372 |
+| Total                                                                                                                |          |    -24,318 |    -66,304 |     -8,022 |    -98,644 |
++----------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
